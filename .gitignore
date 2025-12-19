@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Browser Profile (Sensitive & Heavy)
+backend/scraper/chrome_profile/
+
+# Data (Optional - usually we don't upload large datasets)
+data/*.json
+
+# IDE
+.idea/
+.vscode/
